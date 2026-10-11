@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    BSERIES_RPM: 798.75
+  response: 7E80562F40C0C7B
+- expected_values:
+    BSERIES_RPM: 800.75
+  response: 7E80562F40C0C83

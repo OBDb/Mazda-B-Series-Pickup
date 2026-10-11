@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    BSERIES_FLI: 36.07843
+  response: 7E80462F42F5C
+- expected_values:
+    BSERIES_FLI: 36.47059
+  response: 7E80462F42F5D

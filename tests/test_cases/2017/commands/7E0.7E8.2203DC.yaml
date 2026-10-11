@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    BSERIES_HPFP_DES: 34150
+  response: 7E8056203DC0D57
+- expected_values:
+    BSERIES_HPFP_DES: 35220
+  response: 7E8056203DC0DC2

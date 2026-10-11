@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22033C
+test_cases:
+- expected_values:
+    BSERIES_TIP_V: 1.65527
+  response: 7E80562033C0153
+- expected_values:
+    BSERIES_TIP_V: 1.66504
+  response: 7E80562033C0155

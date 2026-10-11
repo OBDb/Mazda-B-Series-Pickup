@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22050F
+test_cases:
+- expected_values:
+    BSERIES_VGT_OPEN: 78.03922
+  response: 7E80462050FC7
