@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mazda_B-Series"
+
+generations:
+  - name: "Ford Ranger-based (North America)"
+    start_year: 1994
+    end_year: 2010
+    description: "The North American B-Series, a rebadged Ford Ranger with 2.3 L, 3.0 L and 4.0 L engines."
+  - name: "Mazda-built (other markets)"
+    start_year: 1998
+    end_year: 2006
+    description: "The UN-series B-Series and BT-50 predecessor sold outside North America, with gasoline and diesel engines."

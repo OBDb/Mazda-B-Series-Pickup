@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220306
+test_cases:
+- expected_values:
+    BSERIES_EGR_OPEN_MM: 33.32
+  response: 7E8056203060D04

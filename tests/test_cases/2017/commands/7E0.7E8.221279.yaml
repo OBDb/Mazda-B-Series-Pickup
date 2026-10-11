@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    BSERIES_IAT_SENS_V: 2.30694
+  response: 7E80562127901D8
+- expected_values:
+    BSERIES_IAT_SENS_V: 2.33627
+  response: 7E80562127901DE

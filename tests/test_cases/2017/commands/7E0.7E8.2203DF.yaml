@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2203DF
+test_cases:
+- expected_values:
+    BSERIES_VGT_OPEN_PERC: 78.33677
+  response: 7E8056203DFC88A
